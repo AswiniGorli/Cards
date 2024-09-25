@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+}
+
+.cards
+{
+    background-color: rgb(186, 124, 124);
+    padding: 10%;
+   display: flex;
+   gap: 5%;
+}
+.cards .image1
+{
+width: 50%;
+background-color: rgb(0, 34, 255);
+  padding: 6%;
+
+}
+
+.cards .image2
+{
+    width: 50%;
+  background-color: aqua;
+  padding: 5%;
+}
+
+.cards .image3
+{
+    width: 50%;
+    background-color: rgb(237, 16, 212);
+  padding: 6% ;
+   
+}
